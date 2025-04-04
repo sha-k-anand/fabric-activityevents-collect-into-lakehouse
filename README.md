@@ -204,14 +204,14 @@ DROP TABLE IF EXISTS activityevents_snapshot_step01;
 
 ## View of the lakehouse with JSON files
 
-![Link](/screenshots/01.jpg)
+![Link](/screenshots/S01.jpg)
 
 
 
 ## View of the lakehouse table
 
-![Link](/screenshots/02.jpg)
+![Link](/screenshots/S02.jpg)
 
 ## View of the lakehouse table using TSQL via SQL endpoint
 
-![Link](/screenshots/03.jpg)
+![Link](/screenshots/S03.jpg)
