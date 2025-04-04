@@ -202,6 +202,11 @@ DROP TABLE IF EXISTS activityevents_snapshot_step01;
 ```
 </details>
 
+## Step 4. Schedule the notebook to run daily via pipeline
+![Link](/screenshots/S05.jpg)
+
+
+
 ## View of the lakehouse with JSON files
 
 ![Link](/screenshots/S01.jpg)
