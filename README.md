@@ -212,6 +212,8 @@ DROP TABLE IF EXISTS activityevents_snapshot_step01;
 
 ![Link](/screenshots/S02.jpg)
 
-## View of the lakehouse table using TSQL via SQL endpoint
+## Query  lakehouse tables using TSQL via SQL endpoint
 
 ![Link](/screenshots/S03.jpg)
+
+![Link](/screenshots/S04.jpg)
