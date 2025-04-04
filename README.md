@@ -200,6 +200,7 @@ resultsDF1.write.mode("overwrite").option("overwriteSchema", "true").format("del
 DROP VIEW IF EXISTS  activityevents_snapshot_step02;
 DROP TABLE IF EXISTS activityevents_snapshot_step01;
 ```
+</details>
 
 ## View of the lakehouse with JSON files
 
