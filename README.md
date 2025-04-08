@@ -18,7 +18,7 @@
 For cell 1, use the below code block if API call needs to be made under the context of the current user
 ```
 from notebookutils.mssparkutils.credentials import getToken
-from datetime import datetime
+from datetime import datetime,timedelta
 import requests
 token = getToken("https://analysis.windows.net/powerbi/api")
 ```
@@ -26,7 +26,7 @@ token = getToken("https://analysis.windows.net/powerbi/api")
 For cell 1, use the below code block if API call needs to be made under the context of service principal
 ```
 from notebookutils.mssparkutils.credentials import getToken
-from datetime import datetime
+from datetime import datetime,timedelta
 import requests
 
 client_id = ""
