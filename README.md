@@ -188,10 +188,12 @@ c2.SharingScope,
 c2.CapacityId,
 c2.CapacityName,
 c2.SwitchState,
-c2.BillingType
+c2.BillingType,
+split(input_file_name(),'/')[9] as auditjson_filepath
 FROM  activityevents_snapshot_step01
 LATERAL VIEW  
     posexplode(activityEventEntities) c01 as c1,c2
+
 
 ```
 
