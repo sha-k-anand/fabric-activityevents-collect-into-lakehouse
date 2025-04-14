@@ -85,6 +85,7 @@ while not resp_lastResultSet:
 
 ```
 %%sql
+%%sql
 DROP TABLE IF EXISTS activityevents_snapshot_step01;
 CREATE TABLE  activityevents_snapshot_step01
 (
@@ -129,13 +130,16 @@ ShareLinkId:string,
 SharingScope:string,
 ConsumptionMethod:string,
 CapacityId:string,
-CapacityName:string
+CapacityName:string,
+SwitchState:string,
+BillingType:string
 >>
 ) using  json
 OPTIONS (
 multiLine true,
 path "Files/activityevents/*/*/*/*.json"
 );
+
 ```
 
 ```
@@ -182,10 +186,13 @@ c2.SharingAction,
 c2.ShareLinkId,
 c2.SharingScope,
 c2.CapacityId,
-c2.CapacityName
+c2.CapacityName,
+c2.SwitchState,
+c2.BillingType
 FROM  activityevents_snapshot_step01
 LATERAL VIEW  
     posexplode(activityEventEntities) c01 as c1,c2
+
 ```
 
 ```
@@ -222,3 +229,15 @@ DROP TABLE IF EXISTS activityevents_snapshot_step01;
 ![Link](/screenshots/S03.jpg)
 
 ![Link](/screenshots/S04.jpg)
+
+T-SQL Query to get Tenant settings changes
+```
+select ItemName,SwitchState,UserId from [dbo].[FabricActivityEvents]  WHERE Operation = 'UpdatedAdminFeatureSwitch'
+```
+
+
+T-SQL Query to get Copilot interactions
+```
+SELECT Operation,Workload,UserId FROM [dbo].[FabricActivityEvents] WHERE Operation = 'CopilotInteraction' order by 3
+```
+
