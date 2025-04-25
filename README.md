@@ -243,3 +243,4 @@ T-SQL Query to get Copilot interactions
 SELECT Operation,Workload,UserId FROM [dbo].[FabricActivityEvents] WHERE Operation = 'CopilotInteraction' order by 3
 ```
 
+this is test
