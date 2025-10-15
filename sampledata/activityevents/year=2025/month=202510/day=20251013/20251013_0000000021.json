@@ -1,0 +1,398 @@
+{
+    "activityEventEntities": [
+        {
+            "Id": "bb591f0a-5478-47cc-a47f-3a432f3de972",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:08:52",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "30267ba6-babc-43cd-b4ce-42e34e69c346",
+            "ActivityId": "5b18d787-4ff8-407f-bdde-4eebf5be0972",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "22300b6e-a1b6-478c-b41d-6fb7f4ff8f4e",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:10:59",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "78e34d5f-ed80-4164-b396-3db768c625a5",
+            "ActivityId": "d6bd526a-25ea-4e73-844a-7b522e4e3535",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "314ec43e-1586-4281-9af1-bf1bd5b6ffb4",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:14:09",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "b85d0eb9-cea2-41b8-a1c9-a8efb3fc7ba1",
+            "ActivityId": "0a540b3b-c83d-4b41-8581-310063978150",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "68a45b92-797f-4530-ad8f-6874b0244877",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:18:23",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "d28d2ca6-071e-442f-85b5-cdd1e79b0b44",
+            "ActivityId": "20f347ec-d8db-454a-945f-36f9a3cbbae5",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "24f20d30-0193-414e-a93f-276f19027746",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:19:26",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "ae450b46-3a86-48a3-bf63-237b2cc65877",
+            "ActivityId": "8bce3a05-1c85-4974-8d1c-7f32d1d266d9",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "0d5e1374-b550-48ff-9f81-2303872ad82a",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:22:38",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "458a9877-4e40-475d-adf0-f7c0237230df",
+            "ActivityId": "c2ce5299-6c09-4370-a615-a05e1ec1d215",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "d438400a-196c-45e3-ba4d-87f01f1abf91",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:23:41",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "6a59f4b2-d089-4ba7-9c93-071810d4d98a",
+            "ActivityId": "976bea2c-3e1e-4cf8-8a10-2917d14e34f9",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "02df9527-d27c-49d0-999f-d37d94596868",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:24:44",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "52735a3a-d516-4c52-bcef-43c47b58d868",
+            "ActivityId": "106b77f4-8edd-4d19-a5cb-e3f13e07ef06",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "20d16fec-5b90-431e-8750-544331ef58b9",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:25:48",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "57e18217-c302-4c4a-bb6b-08413dade1fc",
+            "ActivityId": "78d52184-d5bd-46c9-b3af-14d765c23837",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "c09cad93-e1f2-4fe0-859e-5205a04161ad",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:28:58",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "43603dbb-24b2-4366-94ed-60f5b5ac0017",
+            "ActivityId": "08d024a5-d738-463f-b444-f529266b2ca0",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "2dd32b22-6502-45e8-a2ee-5376ec2afdbd",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:37:26",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "265a0eea-f50d-4f4c-9650-e8a209517240",
+            "ActivityId": "aad1d350-a2b2-47c0-8c4b-c3b8272f1601",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "42099a05-048b-4724-a1c6-f17f883c8aa3",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:38:29",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "588ef5c6-8539-44b5-9046-8ed07bf3c7e5",
+            "ActivityId": "9cd080fd-5b10-4ecd-b9fa-b7fa834f5c0c",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "d963745b-31df-45e0-a778-86a0bd886be6",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:48:02",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "201e5ad3-20fa-4dfe-9d04-bf62718107ca",
+            "ActivityId": "f07a12b0-d02a-46d3-bf9b-da75c81e3fa9",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        },
+        {
+            "Id": "9d57a8ec-7e25-4903-8f69-2f4334bbb1c3",
+            "RecordType": 20,
+            "CreationTime": "2025-10-13T21:59:40",
+            "Operation": "GetDatasourceDetailsWithCredentialsAsync",
+            "OrganizationId": "9e128e8f-c5a7-4bb9-9e83-725dbdae9b29",
+            "UserType": 6,
+            "UserKey": "c69e6c38-f1df-4f48-99c8-64193daed828",
+            "Workload": "PowerBI",
+            "UserId": "PowerBI",
+            "ClientIP": "0.0.0.0",
+            "UserAgent": "",
+            "Activity": "GetDatasourceDetailsWithCredentialsAsync",
+            "IsSuccess": true,
+            "RequestId": "a068b8cf-2a68-4d8c-9fa3-23994e9d5de6",
+            "ActivityId": "f25fe78e-8d05-40ea-9d8a-d831118af5e9",
+            "RefreshEnforcementPolicy": 0,
+            "DatasourceInformations": [
+                {
+                    "DatasourceObjectId": "550802fd-3390-451a-b5b5-130d81f5e971",
+                    "GatewayObjectId": "e3ee371b-27de-40ae-93ea-785568234bd7",
+                    "DatasourceReference": "{\"kind\":\"Lakehouse\",\"path\":\"Lakehouse\"}",
+                    "CredentialType": "OAuth2",
+                    "SingleSignOnType": "None"
+                }
+            ],
+            "BillingType": 0
+        }
+    ],
+    "continuationUri": "",
+    "lastResultSet": false
+}

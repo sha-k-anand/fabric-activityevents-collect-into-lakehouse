@@ -85,7 +85,6 @@ while not resp_lastResultSet:
 
 ```
 %%sql
-%%sql
 DROP TABLE IF EXISTS activityevents_snapshot_step01;
 CREATE TABLE  activityevents_snapshot_step01
 (
