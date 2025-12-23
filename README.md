@@ -60,7 +60,7 @@ endDateTime   = previous_day.strftime("'%Y-%m-%dT23:59:59Z'")
 
 folder_path = "Files/activityevents/year=" + previous_day.strftime("%Y")  + "/month=" +  previous_day.strftime("%Y%m")  + "/day=" +  previous_day.strftime("%Y%m%d")
 
-
+##https://api.powerbi.com/v1.0/myorg/admin//activityevents?startDateTime='2025-12-22T00:00:00Z'&endDateTime='2025-12-22T23:59:59Z'
 resp_continuationUri = f"{base_url}/activityevents?startDateTime={startDateTime}&endDateTime={endDateTime}"
 resp_lastResultSet = False
 
